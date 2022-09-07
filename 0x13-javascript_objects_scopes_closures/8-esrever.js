@@ -6,4 +6,4 @@ const esrever = (list) => {
   return (reversedArray);
 };
 
-module.exports = { esrever }
+module.exports = { esrever };
